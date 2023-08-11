@@ -41,6 +41,7 @@
 Требования протестированы, выявлены не соответствия : https://docs.google.com/document/d/1c2AWSaSaLZPRL15Vhn0sGBUiGs31EypyXcsegD1fyZo/edit?usp=sharing
 
 Разработаны тест-кейсы : https://docs.google.com/spreadsheets/d/1CK5geEXBYGszuszuT0nnp_UdhEKs0PDu/edit?usp=sharing&ouid=110254710293067684034&rtpof=true&sd=true
+
 Разработано 17 автотестов 
 
 Дефекты во время тестирования не обнаружены, все автотесты завершены успешно
